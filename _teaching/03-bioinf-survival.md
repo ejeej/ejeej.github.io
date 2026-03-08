@@ -4,7 +4,8 @@ collection: teaching
 type: "Интенсив"
 permalink: /teaching/bioinf-survival
 venue: "Институт биоинформатики"
-date: 2024-2026
+date: 2024-04-01
+period: "2024-2026"
 ---
 
 Модуль по анализу выживаемости в рамках интенсива по [продвинутым методам биостатистики](https://bioinf.me/education/workshops/hardstat) от Института биоинформатики.
