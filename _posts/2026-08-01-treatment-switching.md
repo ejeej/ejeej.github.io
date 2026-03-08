@@ -4,12 +4,12 @@ date: 2026-01-08
 permalink: /posts/2026/01/treatment-switching/
 tags:
   - survival analysis
-  - treatment switching\
+  - treatment switching
   - causal inference
   - ISPOR
 ---
 
-(Пост по следам короткого курса [Causal Inference and Causal Estimands From Target Trial Emulations Using Evidence From Real-World Observational Studies and Clinical Trials](https://www.ispor.org/conferences-education/event/2025/11/09/default-calendar/november-9--causal-inference-and-causal-estimands-from-target-trial-emulations-using-evidence-from-real-world-observational-studies-and-clinical-trials----in-person-at-ispor-europe-2025) на ISPOR Europe 2025)
+Пост по следам короткого курса [Causal Inference and Causal Estimands From Target Trial Emulations Using Evidence From Real-World Observational Studies and Clinical Trials](https://www.ispor.org/conferences-education/event/2025/11/09/default-calendar/november-9--causal-inference-and-causal-estimands-from-target-trial-emulations-using-evidence-from-real-world-observational-studies-and-clinical-trials----in-person-at-ispor-europe-2025) на ISPOR Europe 2025
 
 <br>
 
