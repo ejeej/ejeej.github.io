@@ -9,13 +9,9 @@ tags:
   - ISPOR
 ---
 
-Пост по следам короткого курса [Causal Inference and Causal Estimands From Target Trial Emulations Using Evidence From Real-World Observational Studies and Clinical Trials](https://www.ispor.org/conferences-education/event/2025/11/09/default-calendar/november-9--causal-inference-and-causal-estimands-from-target-trial-emulations-using-evidence-from-real-world-observational-studies-and-clinical-trials----in-person-at-ispor-europe-2025) на ISPOR Europe 2025
-
-<br>
+_Пост по следам короткого курса [Causal Inference and Causal Estimands From Target Trial Emulations Using Evidence From Real-World Observational Studies and Clinical Trials](https://www.ispor.org/conferences-education/event/2025/11/09/default-calendar/november-9--causal-inference-and-causal-estimands-from-target-trial-emulations-using-evidence-from-real-world-observational-studies-and-clinical-trials----in-person-at-ispor-europe-2025) на ISPOR Europe 2025_
 
 **Переключение, смена терапии (treatment switching)** -- это ситуация, когда в рамках исследования пациенты переводятся с терапии интереса или терапии в группе контроля на другую терапию, которая не укладывается в описание стратегии терапии в группе воздействия и/ или контроля, исходы на которых мы оцениваем. 
-
-<br>
 
 Когда это может быть проблемой?
 ======
@@ -98,9 +94,6 @@ tags:
 ======
 
 - [NICE TSD 16](https://sheffield.ac.uk/nice-dsu/tsds/treatment-switching)
-
 - [NICE TSD 24](https://sheffield.ac.uk/media/65536/download?attachment) -- апдейт NICE TSD 24, который его при этом не заменяет (= читать лучше оба)
-
 - [Кусочек презентации с короткого курса ISPOR Europe 2024 от Шеннон Коуп](https://www.ispor.org/docs/default-source/euro2024/adjustingslides-ispor-eu-2024-v1sc.pdf?sfvrsn=bec56397_0), в которой есть наглядная классификация методов с указанием первоисточников и табличка со сравнительными характеристиками этих методов
-
 - [Мультик от Николаса Латимера про treatment switching](https://youtu.be/oug5-dhaOvI?si=DKHP-4hCa6zdJi0G) (Sheffield, который там фигурирует, -- это и есть NICE). Мультик старенький, но советую досмотреть до конца: там о до боли знакомом ;) Сьюзан хотя бы был доступен вариант с "академией": на мой взгляд, у нас в этой сфере еще дремучее, чем в фарме :( А так, на ее месте, я бы не показывала начальству результаты того метода, который изначально кажется сомнительным и оставила бы этот методологический выбор за собой %))
