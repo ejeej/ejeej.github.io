@@ -9,7 +9,7 @@ tags:
   - ISPOR
 ---
 
-_Пост по следам короткого курса [Causal Inference and Causal Estimands From Target Trial Emulations Using Evidence From Real-World Observational Studies and Clinical Trials](https://www.ispor.org/conferences-education/event/2025/11/09/default-calendar/november-9--causal-inference-and-causal-estimands-from-target-trial-emulations-using-evidence-from-real-world-observational-studies-and-clinical-trials----in-person-at-ispor-europe-2025) на ISPOR Europe 2025_
+Пост по следам короткого курса _[Causal Inference and Causal Estimands From Target Trial Emulations Using Evidence From Real-World Observational Studies and Clinical Trials](https://www.ispor.org/conferences-education/event/2025/11/09/default-calendar/november-9--causal-inference-and-causal-estimands-from-target-trial-emulations-using-evidence-from-real-world-observational-studies-and-clinical-trials----in-person-at-ispor-europe-2025)_ на ISPOR Europe 2025
 
 **Переключение, смена терапии (treatment switching)** -- это ситуация, когда в рамках исследования пациенты переводятся с терапии интереса или терапии в группе контроля на другую терапию, которая не укладывается в описание стратегии терапии в группе воздействия и/ или контроля, исходы на которых мы оцениваем. 
 
