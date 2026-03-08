@@ -15,7 +15,7 @@ main:
   #   url: /portfolio/
   #       
   - title: "Блог"
-    url: /year-archive/
+    url: /blog/
     
   - title: "Преподавание"
     url: /teaching/    
