@@ -19,5 +19,6 @@ date: 2025-03-19
 
 [Презентация](https://ejeej.github.io/files/Bioinf-StatMyth2-CIs-and-pvalue.pdf)
 
-Краткое содержание:
+Как лекторий повлиял на меня 😉:
+
 <img src="/images/teaching/pvalue_ispor.jpg" width="500"/>
