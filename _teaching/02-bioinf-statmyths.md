@@ -17,7 +17,7 @@ date: 2025-03-19
 
 - Мифы о p-значениях, интерпретация p-значения
 
-[Презентация](https://ejeej.github.io/files/Bioinf-StatMyth2-CIs-and-pvalue.pdf)
+[Презентация](https://ejeej.github.io/files/teaching/Bioinf-StatMyth2-CIs-and-pvalue.pdf)
 
 Как лекторий повлиял на меня 😉:
 
