@@ -11,9 +11,6 @@ main:
   # - title: "Publications"
   #   url: /publications/
   # 
-  # - title: "Talks"
-  #   url: /talks/    
-# 
   # - title: "Portfolio"
   #   url: /portfolio/
   #       
@@ -22,7 +19,10 @@ main:
     
   - title: "Преподавание"
     url: /teaching/    
-    # 
+
+  - title: "Конференции"
+    url: /talks/
+# 
   # - title: "CV"
   #   url: /cv/
   #   
