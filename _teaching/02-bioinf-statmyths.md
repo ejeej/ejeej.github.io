@@ -2,7 +2,7 @@
 title: "Разрушители статистических мифов"
 collection: teaching
 type: "Открытый лекторий"
-permalink: /teaching/bioinf-regression
+permalink: /teaching/bioinf-statmyths
 venue: "Институт биоинформатики"
 date: 2025-03-19
 ---
