@@ -18,7 +18,10 @@ main:
     url: /blog/
     
   - title: "Преподавание"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "Публикации"
+    url: /publications/        
 
   - title: "Конференции"
     url: /talks/
