@@ -40,9 +40,11 @@
     {% if post.venue %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.type }}, {{ post.venue }}, {{ post.location }}</p>
     {% endif %}
+    
     {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description"> {{ post.excerpt | markdownify }}</p>
     {% endif %}
+    
     {% if post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Скачать презентацию</a></p>
     {% endif %}
